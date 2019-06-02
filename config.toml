@@ -1,4 +1,4 @@
-baseURL = "http://abhishek.fyi/"
+baseURL = "https://abhishek.fyi/"
 languageCode = "en-us"
 title = "My personal blog"
 theme = "ezhil"
