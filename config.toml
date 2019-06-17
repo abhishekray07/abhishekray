@@ -1,6 +1,6 @@
 baseURL = "https://abhishek.fyi/"
 languageCode = "en-us"
-title = "My personal blog"
+title = "Abhishek Ray"
 theme = "ezhil"
 
 # Enable syntax highlighting.
@@ -15,7 +15,7 @@ disqusShortname = "localhost"
 
 [params]
 	# Blog subtitle which appears below blog title. Supports markdown.
-	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+	# subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
 	# Number of posts to show in recent posts list (Optional). Defaults to 10.
 	recentPostsCount = 10
 	# Content types which are excluded from recent posts and archive page (Optional). Defaults to ["page"]
@@ -36,27 +36,22 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
+# [[menu.main]]
+# name = "About"
+# url = "/about"
+# weight = 3
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 3
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/vividvilla/ezhil"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/gohugoio"
+url = "https://github.com/abhishekray07"
 
 # Enable tags.
 [taxonomies]
