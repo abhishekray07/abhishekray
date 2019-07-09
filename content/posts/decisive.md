@@ -1,7 +1,7 @@
 ---
 title: "[Book Review] Decisive: How to make better choices in Life and Work"
 date: 2019-07-01
-draft: true
+draft: false
 tags: books
 ---
 by Chip Heath & Dan Heath
