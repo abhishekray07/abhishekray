@@ -3,6 +3,7 @@ title: "Goals vs Systems"
 date: 2019-07-08
 draft: false
 tags: life
+disqus: false
 ---
 
 When I was younger, I used to set goals for myself. Most of these goals would be way in the future and most of the time I would not succeed in achieving these goals. A couple of years ago I read this [blog post] (https://blog.dilbert.com/2013/11/18/goals-vs-systems/)  by Scott Adams where he talks about the difference between Goals & Systems.

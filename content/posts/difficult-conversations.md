@@ -3,6 +3,7 @@ title: "[Book Review] Difficult Conversations: How to Discuss What Matters Most"
 date: 2019-06-02T15:57:06-07:00
 draft: false
 tags: books
+disqus: false
 ---
 
 *by Douglas Stone, Bruce Patton, Shiela Heen*

@@ -3,6 +3,7 @@ title: "Process vs Outcome"
 date: 2019-07-11
 draft: false
 tags: life
+disqus: false
 ---
 
 I have spent quite a bit of time thinking about Process and Outcomes. A definition of *Process* by Merriam-Webster is, "a series of actions or operations conducing to an end" whereas a definition of *Outcome* is "something that follows as a result or consequence".

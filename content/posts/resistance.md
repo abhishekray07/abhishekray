@@ -3,6 +3,7 @@ title: "Resistance"
 date: 2019-07-09
 draft: false
 tags: life
+disqus: false
 ---
 
 I recently listened to [The War of Art by Steven Pressfield](https://www.goodreads.com/book/show/1319.The_War_of_Art).

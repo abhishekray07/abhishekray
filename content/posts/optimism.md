@@ -3,6 +3,7 @@ title: "Optimism"
 date: 2019-07-28
 draft: false
 tags: life
+disqus: false
 ---
 
 I have generally been an optimistic person for my whole life. However, I never really thought of optimism as a skill which could be learned. I just figured that was a trait I was born with.
